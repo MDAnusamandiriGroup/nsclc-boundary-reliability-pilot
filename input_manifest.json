@@ -1,0 +1,18 @@
+{
+  "GSM8855707_NSCLC_P5_filtered_feature_bc_matrix.h5": {
+    "size_bytes": 12297071,
+    "sha256": "82c52dc7e23bb4318fc8402ae941150e073ff3170a419f8c0a22aeff37077536"
+  },
+  "GSM8855707_NSCLC_P5_spatial.tar.gz": {
+    "size_bytes": 31477259,
+    "sha256": "f195cd9b77f7dce6d2c365a80abbef36da6c5bb6de4142e7641f49d5c1f7adb5"
+  },
+  "GSM8855714_NSCLC_P12_filtered_feature_bc_matrix.h5": {
+    "size_bytes": 6981219,
+    "sha256": "8add3eb74a0693c2ce16fb4699c7c4a6ba350c13d764f0448307ee59d6fb44e3"
+  },
+  "GSM8855714_NSCLC_P12_spatial.tar.gz": {
+    "size_bytes": 31355917,
+    "sha256": "8201c60291ef116dd3e05df5ed95fd3f24ef573d7df8f756a066e6718054eef7"
+  }
+}

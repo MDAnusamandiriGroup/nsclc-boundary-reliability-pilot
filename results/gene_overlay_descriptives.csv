@@ -1,0 +1,7 @@
+sample,gene,spots_detected,median_logCPM
+P5,EPCAM,1099,0.0
+P5,KRT19,1956,0.0
+P5,PTPRC,215,0.0
+P12,EPCAM,712,0.0
+P12,KRT19,986,0.0
+P12,PTPRC,216,0.0
